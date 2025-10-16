@@ -1,4 +1,4 @@
--LIST OF MATERIALS-
+## -LIST OF MATERIALS-
 20x Rough Stone
 10x Linen Cloth
 46x Copper Bar
@@ -38,7 +38,8 @@
 3x Mining Pick
 3x Skinning Knife
 3x Blacksmith Hammer
--Leveling guide-
+
+## -Leveling guide-
 1-40 - 20x Rough Blasting Powder (20 Rough Stones)
 40-55 - 5x Rough Dynamites (10 Rough Blasting Powder, 5 Linen Cloth)
 55-58 - 1x Arclight Spanner (6 Copper Bars)
@@ -74,3 +75,5 @@
 432-438 - 2x Heartseeker Scope (20x Saronite Bar, 4x Twilight Opal)
 438-447 - 3x Gnomish Army Knife (30x Saronite Bar, 3x Skinning Knife, 3x Mining Pick, 3x Blacksmith Hammer)
 447-450 - 1x Wormhole Generator: Northrend (8x Titanium Bar, 2x Eternal Shadow, 2x Eternal Water, 2x Eternal Fire, 2x Eternal Air)
+
+[Back to Index](../index.md)
