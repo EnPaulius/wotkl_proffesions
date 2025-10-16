@@ -6,17 +6,16 @@ Welcome to the WoW profession leveling guides! Click on a profession below to vi
 - [Blacksmithing](guides/blacksmithing.md)
 - [Enchanting](guides/enchanting.md)
 - [Engineering](guides/engineering.md)
-- [Herbalism](guides/herbalism.md)
-- [Inscription](guides/inscription.md)
 - [Jewelcrafting](guides/jewelcrafting.md)
 - [Leatherworking](guides/leatherworking.md)
-- [Mining](mining.md)
-- [Skinning](skinning.md)
 - [Tailoring](guides/tailoring.md)
 
 *Secondary Professions:*
 - [Cooking](cooking.md)
 - [Fishing](fishing.md)
 - [First Aid](first-aid.md)
-
+- [Herbalism](guides/herbalism.md)
+- [Inscription](guides/inscription.md)
+- [Mining](mining.md)
+- [Skinning](skinning.md)
 Guides are based on efficient leveling paths for Classic, TBC, or WotLK (adjust as needed for your version).
