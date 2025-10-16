@@ -18,4 +18,5 @@ Welcome to the WoW profession leveling guides! Click on a profession below to vi
 - [Inscription](guides/inscription.md)
 - [Mining](mining.md)
 - [Skinning](skinning.md)
+
 Guides are based on efficient leveling paths for Classic, TBC, or WotLK (adjust as needed for your version).
